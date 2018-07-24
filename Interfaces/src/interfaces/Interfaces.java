@@ -16,6 +16,10 @@ public class Interfaces {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+       // Figura f;
+        //f = cmb.setSelectedItem();
+        
     }
     
 }
